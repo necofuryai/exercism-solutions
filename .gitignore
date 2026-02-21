@@ -1,0 +1,44 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Claude Code
+.claude/
+
+# Editors
+.idea/
+.vscode/
+*.code-workspace
+*.swp
+*.swo
+*~
+
+# Go
+*.exe
+*.test
+*.out
+coverage.out
+coverage.html
+go.work.sum
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Node / TypeScript
+node_modules/
+.npm
+dist/
+*.tsbuildinfo
+
+# Rust
+target/
